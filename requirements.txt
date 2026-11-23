@@ -4,3 +4,4 @@ matplotlib
 numpy
 shapely
 Pillow
+cadquery   # only for the C23310 3D model

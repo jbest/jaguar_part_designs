@@ -14,7 +14,7 @@ Reproduction and replacement parts designed during the restoration of a 1959 Jag
 | [`jaguar_generator_bracket_C2286`](jaguar_generator_bracket_C2286/) | **C2286** generator adjustment bracket | Cut, 0.187" sheet | v2 is current. Not yet checked at true size against an original. |
 | [`jaguar_oval_washer_BD542-3`](jaguar_oval_washer_BD542-3/) | **BD542/3** oval washer, 3/4" × 1-1/2" with 1/4" hole | Cut, 0.06" (1.5 mm) stainless | v1 ready to cut. |
 | [`jaguar_radiator_strap_460-043`](jaguar_radiator_strap_460-043/) | **460-043** radiator tie strap (stay) | Cut, stainless 0.125" or 0.187"; original is 0.14" | v1 in two variants: original (8-7/8") and long (+1/8", slot +1/8"). The original's two small bracket holes are not in the DXFs and are only partly measured. |
-| [`jaguar_turn_signal_cover_C23310`](jaguar_turn_signal_cover_C23310/) | **C23310** turn signal switch cover: the spring-clip cap half | Molded plastic: needs 3D modeling and printing | Reference material only; no design yet. |
+| [`jaguar_turn_signal_cover_C23310`](jaguar_turn_signal_cover_C23310/) | **C23310** turn signal switch cover: the spring-clip cap half | 3D printed (original is die-cast zinc); STEP and STL files, in millimeters | v1 draft: outline and column cutouts traced from an original main cover; depth and attachment still estimated. |
 
 Planned improvements are listed in [TODO.md](TODO.md).
 
