@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# CAD / Office lock and backup files
+*.bak
+*.dwl
+*.dwl2
+~$*
+
+# Personal photos with GPS location data: kept on disk, never committed
+*.HEIC
+*.heic
+jaguar_oval_washer_BD542-3/images/IMG_9884 Large.jpeg
+jaguar_wiring_box_C13416/images/00_hand_sketch_measurements.jpeg
+jaguar_wiring_box_C13416/images/01_car_location_behind_radiator.jpeg
+jaguar_carb_shield_AUC1054/images/00_hand_sketch.jpg
+jaguar_carb_shield_AUC1054/images/02_carb_mounting_face_disassembled.jpg
+jaguar_carb_shield_AUC1054/images/03_carb_assembled_top_view.jpg
+jaguar_carb_shield_AUC1054/images/originals/
+jaguar_radiator_strap_460-043/images/IMG_9815.jpeg
+jaguar_generator_bracket_C2286/IMG_9877 Large.jpeg
+jaguar_generator_bracket_C2286/IMG_9878 Large.jpeg
+# Archive zip contains copies of geotagged photos
+jaguar_carb_shield_AUC1054/archive/AUC1054_dust_shield_handoff.zip

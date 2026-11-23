@@ -1,0 +1,6 @@
+# Python packages used by the generator scripts in each part's scripts/ folder
+ezdxf
+matplotlib
+numpy
+shapely
+Pillow
