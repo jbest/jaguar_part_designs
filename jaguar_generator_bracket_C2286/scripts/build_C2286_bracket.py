@@ -1,5 +1,6 @@
 """Generator adjustment bracket C2286, XK 150S. Builds DXF (inches) and 1:1 PDF.
-Usage: python3 build_C2286_bracket.py v1|v2
+Usage (run from the part folder): python3 scripts/build_C2286_bracket.py v1|v2
+  Outputs are written to the current folder; v1 files live in early_trials/.
   v1: R0.59 right fillet sized for 1.29 max width (0.22 min wall at corner)
   v2: R0.43 corner concentric with lower slot top end (0.26 min wall), 1.32 max width
 """
